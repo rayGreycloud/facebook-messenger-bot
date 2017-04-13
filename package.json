@@ -1,0 +1,11 @@
+{
+  "name": "fb-messenger-bot",
+  "version": "1.0.0",
+  "description": "Facebook Messenger Bot Server App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rayGreycloud",
+  "license": "ISC"
+}
